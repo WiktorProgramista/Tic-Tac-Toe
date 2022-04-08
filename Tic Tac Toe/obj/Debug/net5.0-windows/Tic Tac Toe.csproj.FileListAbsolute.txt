@@ -1,0 +1,22 @@
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.exe
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.deps.json
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.dll
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\ref\Tic Tac Toe.dll
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0-windows\Tic Tac Toe.pdb
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe_MarkupCompile.cache
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe_MarkupCompile.lref
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.g.resources
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.dll
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\ref\Tic Tac Toe.dll
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.pdb
+C:\Users\wikto\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0-windows\Tic Tac Toe.genruntimeconfig.cache
